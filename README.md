@@ -1,5 +1,5 @@
 # Study Is Very Important
-## Email iwbdsdyfb@gmail.com with any further game suggestions!
+## Email iwbdsdyfb@gmail.com with any further "study" suggestions!
 
 [1](https://studyisimportant.github.io/1)   
 [10-minutes-till-dawn](https://studyisimportant.github.io/10-minutes-till-dawn)
@@ -14,8 +14,7 @@
 [DogeMiner](https://studyisimportant.github.io/DogeMiner)   
 [FullScreenMario](https://studyisimportant.github.io/FullScreenMario)   
 [HexGL](https://studyisimportant.github.io/HexGL)   
-[OfflineParadise](https://studyisimportant.github.io/OfflineParadise)   
-[Squid-Gun-Fest](https://studyisimportant.github.io/Squid-Gun-Fest)   
+[OfflineParadise](https://studyisimportant.github.io/OfflineParadise)     
 [Stickman-Survival](https://studyisimportant.github.io/Stickman-Survival)   
 [achievementunlocked](https://studyisimportant.github.io/achievementunlocked)   
 [adarkroom](https://studyisimportant.github.io/adarkroom)   
@@ -88,8 +87,7 @@
 [core-ball](https://studyisimportant.github.io/core-ball)   
 [craftmine](https://studyisimportant.github.io/craftmine)   
 [creativekillchamber](https://studyisimportant.github.io/creativekillchamber)   
-[crossyroad](https://studyisimportant.github.io/crossyroad)   
-[crowd-city-2](https://studyisimportant.github.io/crowd-city-2)   
+[crossyroad](https://studyisimportant.github.io/crossyroad)    
 [csgo-clicker](https://studyisimportant.github.io/csgo-clicker)   
 [ctr-holiday](https://studyisimportant.github.io/ctr-holiday)   
 [ctr-tr](https://studyisimportant.github.io/ctr-tr)   
@@ -314,8 +312,7 @@
 [shuttledeck](https://studyisimportant.github.io/shuttledeck)   
 [skyblock](https://studyisimportant.github.io/skyblock)   
 [sleepingbeauty](https://studyisimportant.github.io/sleepingbeauty)   
-[slice-of-sasha](https://studyisimportant.github.io/slice-of-sasha)   
-[slither-snake](https://studyisimportant.github.io/slither-snake)   
+[slice-of-sasha](https://studyisimportant.github.io/slice-of-sasha)    
 [slither](https://studyisimportant.github.io/slither)   
 [slope-ball](https://studyisimportant.github.io/slope-ball)   
 [slope](https://studyisimportant.github.io/slope)   
