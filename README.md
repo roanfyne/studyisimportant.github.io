@@ -1,6 +1,11 @@
 # Study Is Very Important
 ## Email iwbdsdyfb@gmail.com with any further "study" suggestions!
 
+
+
+## New Releases!
+[Monkey Mart](https://studyisimportant.github.io/monkey-mart.html)
+
 [1](https://studyisimportant.github.io/1)   
 [10-minutes-till-dawn](https://studyisimportant.github.io/10-minutes-till-dawn)
 [100ng](https://studyisimportant.github.io/100ng)   
