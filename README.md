@@ -6,8 +6,6 @@
 ## New Releases!
 [Monkey Mart](https://studyisimportant.github.io/monkey-mart.html)
 
-[Yohoho.io](https://studyisimportant.github.io/yohoho-io.html)
-
 
 ## Games:
 [1](https://studyisimportant.github.io/1)   
